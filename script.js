@@ -51,7 +51,7 @@ const projects = [
     {
         title: "الجائزة الوطنية للإبداع والتميز",
         category: "Creativity",
-        thumbnail: "assets/images/projects/project-01.jpg",
+        thumbnail: "assets/images/projects/project-01.png",
         video: "assets/videos/video-01.mp4",        // → "assets/videos/video-01.mp4"
         description: "الحصول على المرتبة الأولى وطنياً في مسابقة أفضل عمل إعلامي ترويجي سياحي في الجزائر، ضمن منافسة ضمّت أكثر من 480 عملاً"
     },
@@ -96,7 +96,7 @@ const projects = [
 const featured = {
     title: "The Story Behind The Journey",
     category: "Featured Story",
-    thumbnail: "assets/images/projects/featured.jpg",
+    thumbnail: "assets/images/projects/featured.png",
     video: "assets/videos/featured.mp4",           // → "assets/videos/featured.mp4"
     description: "A cinematic look at the moments, people and lessons that shaped the journey — and why sharing them matters."
 };
