@@ -106,7 +106,7 @@ const events = [
     {
         name: "Salon International de la Femme Artisanale",
         location: "Niamey",
-        country: "Niger",
+        country: "Niger", 
         year: "2024",
         image: "assets/images/events/event-01.jpg",
         description: "فعالية دولية احتفت بإبداعات المرأة الحرفية، وجمعت مشاركات من عدة دول لعرض المنتجات التقليدية وتبادل الخبرات والثقافات، في إطار يعزز حضور المرأة ودورها في مجال الصناعة التقليدية"
